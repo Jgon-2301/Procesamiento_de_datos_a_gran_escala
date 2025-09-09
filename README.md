@@ -9,6 +9,9 @@ El objetivo es aplicar y comprender técnicas, herramientas y entornos que permi
 
 1. **Laboratorios Python** 🐍  
    Ejercicios prácticos y ejemplos en Python enfocados en el manejo, análisis y procesamiento de datos.
+2. **Primer Parcial**
+   - Guía de laboratorio del construcción de un Cluster Spark
+   - Notebook de procesamiento y análisis de datos de la Premier League 17-18
 
 
 ---
@@ -16,6 +19,8 @@ El objetivo es aplicar y comprender técnicas, herramientas y entornos que permi
 ## 🚀 Tecnologías utilizadas
 - **Python 3**
 - **Google Colab**
+- **Databricks**
+- **PySpark**
 - **Pandas / NumPy**
 - **Herramientas de Big Data** (según se requiera)
 
