@@ -12,7 +12,9 @@ El objetivo es aplicar y comprender técnicas, herramientas y entornos que permi
 2. **Primer Parcial**
    - Guía de laboratorio del construcción de un Cluster Spark
    - Notebook de procesamiento y análisis de datos de la Premier League 17-18
-
+3. **Laboratorio Calidad del Agua**
+    - Uso de MLlib y Keras para la predicción de valores de calidad del agua en la India
+    - Generación de visualización y análisis de datos
 
 ---
 
