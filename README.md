@@ -15,6 +15,8 @@ El objetivo es aplicar y comprender técnicas, herramientas y entornos que permi
 3. **Laboratorio Calidad del Agua**
     - Uso de MLlib y Keras para la predicción de valores de calidad del agua en la India
     - Generación de visualización y análisis de datos
+4. **Laboratorios ML**
+    - Uso de MLlib y Pyspark para el entendimiento de flujos básicos de ejercicios de construcción de modelos predictivos y preprocesamiento de datos
 
 ---
 
